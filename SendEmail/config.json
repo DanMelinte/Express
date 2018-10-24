@@ -1,14 +1,14 @@
 {
-    "mail": {
-      "subject": "Message",
-      "smtp": {
-        "host": "smtp.mailtrap.io",
-        "port": 25,
-        "secure": true,
-        "auth": {
-          "user": "e9cbed32d4da2e",
-          "pass": "c3e45560a6c182"
-        }
+  "mail": {
+    "subject": "Сообщение с сайта",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "loftschoolnodejs@gmail.com",
+        "pass": "webinar201805"
       }
     }
   }
+}
