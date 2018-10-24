@@ -13,3 +13,4 @@ router.get('/about', ctrlAbout.getAbout);
 router.get('/contact', ctrlContact.getContact);
 
 module.exports = router;
+
